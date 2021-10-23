@@ -1,0 +1,19 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    background: tomato;
+    padding: 10px;
+}
+.navitem{
+   width: 100px;
+   padding: 10px;
+   list-style-type: none;
+   color: white;
+   border-radius: 20px;
+   text-align: center;
+   margin: 2px;
+   border: 1px solid rgb(177, 53, 31);
+}
+.navlink{
+    color: white;
+}
